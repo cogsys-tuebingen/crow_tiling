@@ -24,7 +24,13 @@ Empty tiles were discarded.
 
 ### Citation
 ```
-@article{TODO
+@article{varga2021tackling,
+      title={Tackling the Background Bias in Sparse Object Detection via Cropped Windows}, 
+      author={Leon Amadeus Varga and Andreas Zell},
+      year={2021},
+      eprint={2106.02288},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 
 ```
